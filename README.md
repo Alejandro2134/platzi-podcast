@@ -4,6 +4,8 @@ App de Podcast integrada con la API de AudioBoom para aprender Next.js
 
 ![Captura de la App](./.static-readme/pantallazo.png)
 
+[Ver la aplicación](https://podcast-beryl.now.sh)
+
 ## ¿Cómo funciona?
 
 Requiere Node.js
